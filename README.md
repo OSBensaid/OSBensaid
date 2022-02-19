@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I am Oussama Bensaid, I'm a Junior Developer developer. I like programming , design, photography and I always want to learn new things.
 
 ## 🤝🏻 Connect with Me
-<div  align="center">
+<div>
 
   <a href="https://www.linkedin.com/in/oussama-bensaid/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
