@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 ## About me
 I am Oussama Bensaid, I'm a Junior Developer developer. I like programming , design, photography and I always want to learn new things.
 
-<h2><i>Follow me:</i></h2>
+## 🤝🏻 Connect with Me
 <div  align="center">
 
   <a href="https://www.linkedin.com/in/oussama-bensaid/" target="_blank">
@@ -31,5 +31,5 @@ I am Oussama Bensaid, I'm a Junior Developer developer. I like programming , des
   </a>
 
 </div>
-<hr>
-⭐️ From <a href="https://github.com/osbensaid">Oussama Bensaid</a>
+
+⭐️ From [Oussama Bensaid](https://github.com/osbensaid)
