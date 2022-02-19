@@ -1,3 +1,4 @@
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 ### Hi there, I'm Oussama 👋
 
 <!--
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
 
 ## About me
 I am Oussama Bensaid, I'm a Junior Developer developer. I like programming , design, photography and I always want to learn new things.
