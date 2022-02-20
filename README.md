@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
-## Hi, I'm Oussama Bensaid 👋
+## Hi, I'm Oussama Bensaid
 I am a Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools
 
 <!--
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 
-## Connect with Me 🤝🏻
+## Connect with Me
 [![Gmail](https://img.shields.io/badge/-Gmail-071A2C?style=flat-square&logo=gmail&logoColor=white&target=blank)](mailto:osbensaid@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-071A2C?style=flat-square&logo=twitter&logoColor=white&target=blank)](https://twitter.com/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-071A2C?style=flat-square&logo=linkedin&logoColor=white&target=blank)](https://www.linkedin.com/in/oussama-bensaid/)
