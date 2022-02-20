@@ -1,5 +1,4 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/nirala96/nirala96/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="500"/>
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 ## Hi, I'm Oussama Bensaid 👋
 I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools
