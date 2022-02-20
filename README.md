@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
   </a>
   
-  [![Gmail](https://img.shields.io/badge/-Gmail-071A2C?style=flat-square&logo=gmail&logoColor=white&link='mailto:osbensaid@gmail.com')](https://twitter.com/)
+  [![Gmail](https://img.shields.io/badge/-Gmail-071A2C?style=flat-square&logo=gmail&logoColor=white)](mailto:osbensaid@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-071A2C?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-071A2C?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/oussama-bensaid/)](https://www.linkedin.com/in/oussama-bensaid/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-071A2C?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/)](https://stackoverflow.com/)
