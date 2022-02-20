@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 <div>
 
 
-[![Gmail](https://img.shields.io/badge/-Gmail-071A2C?style=flat-square&logo=gmail&logoColor=white&target=_blank)](mailto:osbensaid@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-071A2C?style=flat-square&logo=twitter&logoColor=white&target=_blank)](https://twitter.com/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-071A2C?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-bensaid/)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-071A2C?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)
+[![Gmail](https://img.shields.io/badge/-Gmail-071A2C?style=flat-square&logo=gmail&logoColor=white&target=blank)](mailto:osbensaid@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-071A2C?style=flat-square&logo=twitter&logoColor=white&target=blank)](https://twitter.com/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-071A2C?style=flat-square&logo=linkedin&logoColor=white&target=blank)](https://www.linkedin.com/in/oussama-bensaid/)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-071A2C?style=flat-square&logo=stack-overflow&logoColor=white&target=blank)](https://stackoverflow.com/)
 
 </div>
 
